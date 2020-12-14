@@ -10,3 +10,6 @@ https://gyazo.com/f413b94d3d00fba0d271c48339f1b744
 
 
 Install Node js yourself
+
+
+NODE IS NOT INSTALLED YET, AND THE DARKNET IS NOT LINKED FOR NOW, NOT ADAPTED FOR FIVEM (for now)
